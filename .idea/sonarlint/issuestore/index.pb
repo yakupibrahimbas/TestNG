@@ -14,3 +14,11 @@ Isrc/test/java/techproed/tests/day20_Annotations/C05_DependsOnMethods.java,b\b\
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+]
+-src/test/java/techproed/tests/Subat14/C1.java,6\2\62b35600b01ee0e9657569db8ebb37375f662a4f
+]
+-src/test/java/techproed/tests/Subat14/C2.java,4\9\492337bac34d6eafb0e907c5f423ec8350db7f23
+]
+-src/test/java/techproed/tests/Subat14/C3.java,1\7\17b0327dc706f2d191a2627f9f9b3c14d7b969af
+e
+5src/test/java/techproed/tests/Subat14/C04_Ignore.java,d\8\d8c5f2986b84b2adfd1015f4992689749ee445f6
