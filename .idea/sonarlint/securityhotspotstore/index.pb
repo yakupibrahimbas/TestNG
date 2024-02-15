@@ -24,3 +24,9 @@ Isrc/test/java/techproed/tests/day20_Annotations/C05_DependsOnMethods.java,b\b\
 Lsrc/test/java/techproed/tests/day21_softAssertion_pom/C01_SoftAssertion.java,b\0\b004dd3538588e26526a1c62ab17824635f9c288
 €
 Psrc/test/java/techproed/tests/day21_softAssertion_pom/C02_SoftAssertionTest.java,7\5\75215b9f53bee41e660d639fa2127bd174a1514c
+]
+-src/test/java/techproed/utilities/Driver.java,0\4\045c48383bcd08d633f4b8d080332120e7750a1e
+~
+Nsrc/test/java/techproed/tests/day21_softAssertion_pom/C03_DriverFirstTest.java,c\3\c391930e7362959d106d5e1feacc3d8875f6cfc1
+u
+Esrc/test/java/techproed/tests/day21_softAssertion_pom/AmazonPage.java,4\b\4b233792ba2ef4b5ba915bb0fe3a27c38089d982
