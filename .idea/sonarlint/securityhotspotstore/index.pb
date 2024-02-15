@@ -22,3 +22,5 @@ Isrc/test/java/techproed/tests/day20_Annotations/C05_DependsOnMethods.java,b\b\
 -src/test/java/techproed/tests/Subat14/C3.java,1\7\17b0327dc706f2d191a2627f9f9b3c14d7b969af
 |
 Lsrc/test/java/techproed/tests/day21_softAssertion_pom/C01_SoftAssertion.java,b\0\b004dd3538588e26526a1c62ab17824635f9c288
+€
+Psrc/test/java/techproed/tests/day21_softAssertion_pom/C02_SoftAssertionTest.java,7\5\75215b9f53bee41e660d639fa2127bd174a1514c
