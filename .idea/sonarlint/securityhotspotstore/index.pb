@@ -32,3 +32,11 @@ u
 Esrc/test/java/techproed/tests/day21_softAssertion_pom/AmazonPage.java,4\b\4b233792ba2ef4b5ba915bb0fe3a27c38089d982
 ]
 -src/test/java/techproed/tests/Subat15/C1.java,0\1\01be47359070ba7b42c685f717f609d6936bb4cd
+]
+-src/test/java/techproed/tests/Subat15/C2.java,2\9\29e095494582f1553bc041c3353b0f895236e86f
+]
+-src/test/java/techproed/tests/Subat15/C3.java,1\e\1eaa43392cd57c0748ad67ae6fb01bcff535b6bc
+]
+-src/test/java/techproed/tests/Subat15/C4.java,2\f\2f9031c496491b759be608a4590e41a19859e269
+a
+1src/test/java/techproed/tests/Subat15/Amazon.java,6\b\6b3750c4b7349039f0dc883f3edceb6355a91789
