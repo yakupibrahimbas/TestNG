@@ -30,3 +30,5 @@ Psrc/test/java/techproed/tests/day21_softAssertion_pom/C02_SoftAssertionTest.jav
 Nsrc/test/java/techproed/tests/day21_softAssertion_pom/C03_DriverFirstTest.java,c\3\c391930e7362959d106d5e1feacc3d8875f6cfc1
 u
 Esrc/test/java/techproed/tests/day21_softAssertion_pom/AmazonPage.java,4\b\4b233792ba2ef4b5ba915bb0fe3a27c38089d982
+]
+-src/test/java/techproed/tests/Subat15/C1.java,0\1\01be47359070ba7b42c685f717f609d6936bb4cd
