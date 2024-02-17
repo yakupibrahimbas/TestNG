@@ -62,3 +62,11 @@ j
 :src/test/java/techproed/tests/day22_pom/C05_ClassWork.java,2\b\2bfa1ef84107c819fd738deba8d7d261b0ee4719
 a
 1src/test/java/techproed/pages/BlueRentalPage.java,8\7\8705b7a0980fa4a96d40b8fef5b8b25bb2cc14d6
+]
+-src/test/java/techproed/tests/Subat17/C1.java,c\7\c727df613b14d5d9b4f041403daacc77f3e4be67
+^
+.src/test/java/techproed/tests/Subat17/C02.java,7\e\7e79c66911e5a9717d641d097ce7e7244eb8c057
+^
+.src/test/java/techproed/tests/Subat17/C03.java,9\4\948a933e372045e12a8c6641de790df2e29116de
+^
+.src/test/java/techproed/tests/Subat17/C04.java,3\e\3e4cccd3696373bfa0688b62d762b60c74dc82e0
