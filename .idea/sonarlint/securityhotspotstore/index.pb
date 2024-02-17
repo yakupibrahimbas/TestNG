@@ -74,3 +74,11 @@ x
 Hsrc/test/java/techproed/tests/day23_pom_excel/C01_NegativeLoginTest.java,e\a\ea6bf6b2822131cda168daf1fee9165d581e34a8
 b
 2src/test/java/techproed/utilities/ExcelReader.java,3\b\3b7a2af99e0aa951bb7ee628ddb4bf0a43007cf2
+p
+@src/test/java/techproed/tests/day23_pom_excel/C02_ExcelTest.java,6\9\6912159490a3689c2f1a470bca2cb6aa6f60bcfc
+}
+Msrc/test/java/techproed/tests/day23_pom_excel/C03_BlueRentalCarExcelTest.java,c\2\c2c7948f68f4a9351812ec19a09b5bc6b53c62aa
+}
+Msrc/test/java/techproed/tests/day23_pom_excel/C04_BlueREntalCarExcelTest.java,c\b\cb1388258a2c1fd4fb997cc257537d1137b59a24
+s
+Csrc/test/java/techproed/tests/day23_pom_excel/C05_DataProvider.java,0\e\0e38180f917bebaf59e7a3ca5ab17a71e400b917

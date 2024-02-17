@@ -24,11 +24,18 @@ public class BlueRentalPage {
 
     @FindBy(xpath = "//*[contains( text(),'User with email' )]")
     public WebElement negativeloginVerify;
+    @FindBy(xpath = "//*[.='Profile']")
+    public WebElement profile;
 
 
+    @FindBy(xpath = "//em")
+    public WebElement profileEmail;
 
+    @FindBy(xpath = "//*[.='Logout']")
+    public WebElement logout;
 
-
+    @FindBy(xpath = "//*[.='OK']")
+    public WebElement okButton;
 
 
 }
