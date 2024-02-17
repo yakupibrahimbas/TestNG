@@ -2,40 +2,72 @@ package techproed.utilities;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.safari.SafariDriver;
 
 import java.time.Duration;
 
 public class Driver {
 
+    /*
+     Driver i her cagirdigimizda yeni bir penecere acmamamis icin if block u ile ayaralama yaptik
+     yapmis oldugumuz ayaralamada  if(driver==null) ile eger driver a deger atanmamis ise driver i baslat dedik
+     driver acik iken tekrar cagirilirsa if block calismayacagindan bu method mevcut driver i tekrar return edecek
+     buylece ayni driver uzerinden test senaryomuza devam edebileceğiz
+      */
+    static WebDriver driver;
+
     private Driver() {
         /*
-        P.O.Modelde driverim singleton pattern ile kullanilmasi tercih edilmiştir
-        Singleton Pattern==> tekli kullanim bir classtan bir ozelligin object olusturularak
-        kullanilmasini engellemek icin kullanilir
+        POM de driver clasindaki getDriver methodunun oject olusturularak kullanilmasini engellemek icin
+        Singleton Pattern kullanimi benimsenmistir
+        Singleton Pattern :( tekli kullanim) Bir classtan oject olusturulmasini engelleyerek o classtan özelliklere erisimi
+        singleton yapariz
+        Bunu saglamak icin default constructor i private yapariz
          */
     }
 
-    static WebDriver driver;
-    /*
-    Driveri her cagirdigimizda yeni bir pencere acmamasi icin if blocku ile ayarlama yaptik
-    if(driver==null) ile driver eger bos ise yani deger atanmamis ise driveri baslat dedik
-    driver acikken deger atanmis olacagi icin bu block aktive olmayacak dolayisiyla mevcut driveri return
-    edecek. boylece ayni driver uzerinden test senaryolarina devam edebilecegiz. Tekli kullanim icin default constructoru private yaptik
-     */
-   public static WebDriver getDriver(){
-       if (driver==null){
-           driver=new ChromeDriver();
-           driver.manage().window().maximize();
-           driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-       }
-       return driver;
-   }
-   public static void closeDriver(){
-       if (driver!=null){
-           driver.close();
-           driver=null;
-       }
+    public static WebDriver getDriver(){
+        if(driver==null){
+            switch (ConfigReader.getProperty("browser")){
 
-   }
+                case "chrome" :
+                    driver = new ChromeDriver();
+                    break;
+
+                case "edge" :
+                    driver = new EdgeDriver();
+                    break;
+
+                case "safari" :
+                    driver = new SafariDriver();
+                    break;
+
+                case "firefox" :
+                    driver = new FirefoxDriver();
+                    break;
+
+                default:
+                    driver = new ChromeDriver();
+
+            }
+            driver.manage().window().maximize();
+            driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+        }
+        return driver;
+    }
+
+    public static void closeDriver(){
+        if(driver!=null){
+            driver.close();
+            driver=null;
+        }
+    }
+
+
+
+
+
 
 }

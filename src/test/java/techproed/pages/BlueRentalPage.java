@@ -19,4 +19,16 @@ public class BlueRentalPage {
     @FindBy(id = "formBasicPassword")
     public WebElement password;
 
+    @FindBy(id = "dropdown-basic-button")
+    public WebElement loginVerify;
+
+    @FindBy(xpath = "//*[contains( text(),'User with email' )]")
+    public WebElement negativeloginVerify;
+
+
+
+
+
+
+
 }

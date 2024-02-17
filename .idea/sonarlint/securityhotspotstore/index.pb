@@ -70,3 +70,7 @@ a
 .src/test/java/techproed/tests/Subat17/C03.java,9\4\948a933e372045e12a8c6641de790df2e29116de
 ^
 .src/test/java/techproed/tests/Subat17/C04.java,3\e\3e4cccd3696373bfa0688b62d762b60c74dc82e0
+x
+Hsrc/test/java/techproed/tests/day23_pom_excel/C01_NegativeLoginTest.java,e\a\ea6bf6b2822131cda168daf1fee9165d581e34a8
+b
+2src/test/java/techproed/utilities/ExcelReader.java,3\b\3b7a2af99e0aa951bb7ee628ddb4bf0a43007cf2
