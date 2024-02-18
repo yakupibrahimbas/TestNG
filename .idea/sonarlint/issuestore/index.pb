@@ -82,3 +82,9 @@ Msrc/test/java/techproed/tests/day23_pom_excel/C03_BlueRentalCarExcelTest.java,
 Msrc/test/java/techproed/tests/day23_pom_excel/C04_BlueREntalCarExcelTest.java,c\b\cb1388258a2c1fd4fb997cc257537d1137b59a24
 s
 Csrc/test/java/techproed/tests/day23_pom_excel/C05_DataProvider.java,0\e\0e38180f917bebaf59e7a3ca5ab17a71e400b917
+b
+2src/test/java/techproed/tests/Subat17/Subat18.java,3\7\374731d4a14ca07d87b89c1a417f9c3d85ac67b0
+c
+3src/test/java/techproed/tests/Subat17/Subat18B.java,6\5\65e1c856662e465cf64df364676b1997fdc53044
+c
+3src/test/java/techproed/tests/Subat17/Subat18C.java,4\2\42a2052810205d1fe043af8495f3f8873eb44642
