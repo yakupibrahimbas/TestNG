@@ -100,3 +100,5 @@ h
 Osrc/test/java/techproed/tests/day24_dataprovider_xml/C03_DataProviderUtils.java,c\b\cb342bccebe668f7fe590f4a0802085809e90fe3
 c
 3src/test/java/techproed/pages/DataProviderPage.java,c\2\c2c73b50448abcbbe09fba4ed5dd81eb1f48261c
+=
+smokeTest.xml,9\0\9050cc7fed4867daa3e043da5efc8f2052558fe3
