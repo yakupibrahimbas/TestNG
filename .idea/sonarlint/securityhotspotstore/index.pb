@@ -92,3 +92,11 @@ z
 Jsrc/test/java/techproed/tests/day24_dataprovider_xml/C01_DataProvider.java,e\7\e7ac1370d2728515f11eeb9691552e144c7213f9
 ]
 -src/test/java/techproed/pages/GooglePage.java,3\6\3637a843423aba343456d8408dfb56cf667fe920
+z
+Jsrc/test/java/techproed/tests/day24_dataprovider_xml/C02_DataProvider.java,0\2\02a50612d66b537aec5f45bc1120f0d9a98e316f
+h
+8src/test/java/techproed/utilities/DataProviderUtils.java,e\8\e8f7276361a6943e8aaef19f338c214b36f75f43
+
+Osrc/test/java/techproed/tests/day24_dataprovider_xml/C03_DataProviderUtils.java,c\b\cb342bccebe668f7fe590f4a0802085809e90fe3
+c
+3src/test/java/techproed/pages/DataProviderPage.java,c\2\c2c73b50448abcbbe09fba4ed5dd81eb1f48261c
