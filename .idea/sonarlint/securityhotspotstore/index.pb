@@ -88,3 +88,7 @@ c
 3src/test/java/techproed/tests/Subat17/Subat18B.java,6\5\65e1c856662e465cf64df364676b1997fdc53044
 c
 3src/test/java/techproed/tests/Subat17/Subat18C.java,4\2\42a2052810205d1fe043af8495f3f8873eb44642
+z
+Jsrc/test/java/techproed/tests/day24_dataprovider_xml/C01_DataProvider.java,e\7\e7ac1370d2728515f11eeb9691552e144c7213f9
+]
+-src/test/java/techproed/pages/GooglePage.java,3\6\3637a843423aba343456d8408dfb56cf667fe920

@@ -4,6 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import techproed.utilities.Driver;
+import techproed.utilities.ReusableMethods;
 
 public class AmazonPage {
       /*
@@ -18,4 +19,9 @@ public class AmazonPage {
 
     @FindBy(id= "twotabsearchtextbox")
     public WebElement aramaKutusu;
+    @FindBy(xpath= "//*[.='Try different image']")
+    public WebElement captchHandling;
+    public void handleCaptcha(){
+        ReusableMethods.click(captchHandling);
+    }
 }
