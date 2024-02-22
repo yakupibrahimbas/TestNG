@@ -20,7 +20,7 @@ public class C05_DependsOnMethods {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
     }
 
-    @Test
+    @Test(groups = "smoke")
     public void test01() {
         //amazona gidelim
         driver.get("https://amazon.com");

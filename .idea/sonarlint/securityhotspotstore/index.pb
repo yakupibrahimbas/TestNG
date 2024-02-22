@@ -102,3 +102,20 @@ c
 3src/test/java/techproed/pages/DataProviderPage.java,c\2\c2c73b50448abcbbe09fba4ed5dd81eb1f48261c
 =
 smokeTest.xml,9\0\9050cc7fed4867daa3e043da5efc8f2052558fe3
+N
+belirliClasslariCalistirma.xml,7\c\7cd9f125dc407ed4890fce8dc18606d46cfddc95
+:
+
+testng.xml,5\2\522a7a4e21649af06297e31a9e33f13bb4fd3022
+d
+4src/test/java/techproed/utilities/DriverEskiHali.txt,9\0\909ecd30cb8f44bd8097446590e1482040b33773
+
+Osrc/test/java/techproed/tests/day25_xmlfiles_paralleltest/C01_ParallelTest.java,c\a\ca54b130190d409d8479bd71a3a4d5bede07fc8c
+P
+ methodSeviyesindeParalelTest.xml,f\1\f1acdb8980ea85a565189b140ab2c2f5da430c2e
+
+Osrc/test/java/techproed/tests/day25_xmlfiles_paralleltest/C02_ParallelTest.java,6\e\6e09a00566f6ee8e73312c0920a179ae2f57189e
+„
+Tsrc/test/java/techproed/tests/day25_xmlfiles_paralleltest/C03_DataProviderUtils.java,f\c\fce9ca503f3180ec8e34800f228ba82833d2f25d
+
+Osrc/test/java/techproed/tests/day25_xmlfiles_paralleltest/C03_DataProvider.java,d\c\dcd144e4fd21591ca8fa43edd9d86792946e2cef
